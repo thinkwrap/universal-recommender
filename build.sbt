@@ -12,7 +12,7 @@ val mahoutVersion = "0.13.0"
 
 val pioVersion = "0.11.0-incubating"
 
-val elasticsearch1Version = "1.7.5"
+val elasticsearch1Version = "1.7.6"
 
 //val elasticsearch5Version = "5.1.2"
 
